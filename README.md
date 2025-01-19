@@ -1,6 +1,6 @@
 👋 Hi, I’m Alejandra Vaquero
 
-👀 I’m interested in: everything tech and cybersecurity
+👀 I’m interested in: everything tech
 
 🌱 I’m currently learning: Data Sciene & AI
 
