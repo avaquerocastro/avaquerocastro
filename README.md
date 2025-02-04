@@ -1,12 +1,14 @@
 👋 Hi, I’m Alejandra Vaquero
 
-👀 I’m interested in: everything tech
+📍 I'm from Honduras 🇭🇳 and currently living in Madrid 🇪🇸
 
-🌱 I’m currently learning: Data Sciene & AI
+👩🏻‍💻 Interested in everything tech
 
-📫 How to reach me: avaquerocastro@tutanota.com
+📊 Learning Data Sciene & AI
 
-⚡ Fun fact: I'm passionate about health and environmental awareness and I prepare my own natural cosmetics.
+📫 Reach me @ avaquerocastro@tutanota.com
+
+🌱 I'm passionate about health and environmental awareness and I prepare my own natural cosmetics.
 
 
 Soy una especialista en marketing digital con un enfoque en gestión de proyectos y mejora continua, centrada en aumentar la eficiencia de los procesos operativos y la estrategia de generación de leads. Con más de 8 años de experiencia en proyectos de gestión cultural, he trabajado en entornos multidisciplinarios, lo que me ha proporcionado una sólida base para liderar equipos y gestionar proyectos de manera efectiva.
