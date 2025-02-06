@@ -1,24 +1,18 @@
-👋 Hi, I’m Alejandra Vaquero
+# Alejandra Vaquero Castro
+## Estrategia en Data & AI | Transformación Digital | Data-Driven Marketing
 
-📍 I'm from Honduras 🇭🇳 and currently living in Madrid 🇪🇸
+Soy una profesional con más de 8 años de experiencia en estrategia digital, gestión de datos y liderazgo de proyectos, combinando marketing, analítica de datos y tecnología para la toma de decisiones empresariales. Mi trayectoria abarca desde la optimización de embudos de conversión y campañas de Paid Media hasta la implementación de soluciones basadas en datos para mejorar procesos y aumentar el impacto del negocio.
 
-👩🏻‍💻 Interested in everything tech
+Actualmente, estoy profundizando en Data Science & AI a través del Máster en Data Science & AI de Nuclio Digital School, desarrollando modelos de Machine Learning y Deep Learning para la optimización de decisiones empresariales y estrategias digitales. Mi enfoque combina la creatividad del marketing con la precisión de la analítica de datos, permitiéndome diseñar estrategias escalables que transforman información en acción.
 
-📊 Learning Data Sciene & AI
+### Áreas de especialización:
+- **Transformación digital & automatización**: Implementación de herramientas y optimización de procesos para mejorar la eficiencia operativa en empresas.
+- **Data-Driven Marketing**: Creación de estrategias basadas en datos para la segmentación de clientes, optimización de embudos de conversión y automatización de campañas.
+- **Business Intelligence & Visualización de datos**: Desarrollo de dashboards y reportes para la toma de decisiones estratégicas.
+- **Gestión de proyectos & liderazgo** de equipos multidisciplinarios.
 
-📫 Reach me @ avaquerocastro@tutanota.com
-
-🌱 I'm passionate about health and environmental awareness and I prepare my own natural cosmetics.
-
-
-Soy una especialista en marketing digital con un enfoque en gestión de proyectos y mejora continua, centrada en aumentar la eficiencia de los procesos operativos y la estrategia de generación de leads. Con más de 8 años de experiencia en proyectos de gestión cultural, he trabajado en entornos multidisciplinarios, lo que me ha proporcionado una sólida base para liderar equipos y gestionar proyectos de manera efectiva.
-
-Como arquitecta, he desempeñado roles de project manager en el sector de la construcción, donde he sido responsable de planificar, supervisar, controlar y mejorar los procesos. Mi enfoque se centra en asegurar el alcance de los objetivos establecidos, el cumplimiento de los plazos y que los recursos se utilicen eficientemente. Me destaco por mi capacidad para resolver problemas, atención al detalle y mantener informadas a todas las partes interesadas sobre el progreso y los resultados del proyecto.
-
-Además, cuento con experiencia en ventas, capacitación técnica y atención al cliente, tanto en roles comerciales como en proyectos independientes. Estoy comprometida con la excelencia en cada tarea que emprendo y me apasiona buscar oportunidades para crecer y aprender en cada desafío que enfrento.
-
-
-<!---
-avaquerocastro/avaquerocastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Herramientas y tecnologías:
+- Lenguajes & Frameworks: Python (Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib), SQL.
+- BI & Visualización: Google Analytics, Looker Studio, Power BI.
+- CRM, Marketing & Automation: Clientify, Metricool, Meta Business Manager, Google Ads, LinkedIn Ads, Zapier.
+- Project Management: Agile (Scrum, Kanban), Airtable, Jira, Trello, Slack, Microsoft Project.
