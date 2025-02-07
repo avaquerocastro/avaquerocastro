@@ -15,4 +15,4 @@ Actualmente, estoy profundizando en Data Science & AI a través del Máster en D
 - Lenguajes & Frameworks: Python (Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib), SQL.
 - BI & Visualización: Google Analytics, Looker Studio, Power BI.
 - CRM, Marketing & Automation: Clientify, Metricool, Meta Business Manager, Google Ads, LinkedIn Ads, Zapier.
-- Project Management: Agile (Scrum, Kanban), Airtable, Jira, Trello, Slack, Microsoft Project.
+- Project Management: Agile (Scrum, Kanban), Airtable, Jira, Trello, Slack, Microsoft 365, Microsoft Project.
