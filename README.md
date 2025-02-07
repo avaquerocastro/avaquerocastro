@@ -5,13 +5,13 @@ Soy una profesional con más de 8 años de experiencia en estrategia digital, ge
 
 Actualmente, estoy profundizando en Data Science & AI a través del Máster en Data Science & AI de Nuclio Digital School, desarrollando modelos de Machine Learning y Deep Learning para la optimización de decisiones empresariales y estrategias digitales. Mi enfoque combina la creatividad del marketing con la precisión de la analítica de datos, permitiéndome diseñar estrategias escalables que transforman información en acción.
 
-### Áreas de especialización:
+### 👩🏻‍💻 Áreas de especialización:
 - **Transformación digital & automatización**: Implementación de herramientas y optimización de procesos para mejorar la eficiencia operativa en empresas.
 - **Data-Driven Marketing**: Creación de estrategias basadas en datos para la segmentación de clientes, optimización de embudos de conversión y automatización de campañas.
 - **Business Intelligence & Visualización de datos**: Desarrollo de dashboards y reportes para la toma de decisiones estratégicas.
 - **Gestión de proyectos & liderazgo** de equipos multidisciplinarios.
 
-### Herramientas y tecnologías:
+### ⚙️ Herramientas y tecnologías:
 - Lenguajes & Frameworks: Python (Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib), SQL.
 - BI & Visualización: Google Analytics, Looker Studio, Power BI.
 - CRM, Marketing & Automation: Clientify, Metricool, Meta Business Manager, Google Ads, LinkedIn Ads, Zapier.
