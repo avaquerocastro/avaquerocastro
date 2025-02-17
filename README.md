@@ -1,18 +1,25 @@
 # Alejandra Vaquero Castro
-## Estrategia en Data & AI | Transformación Digital | Data-Driven Marketing
+## Data Scientist | Transforming businesses with data | Proven success in CRM & data analytics | Project Manager & Team Leader
 
-Soy una profesional con más de 8 años de experiencia en estrategia digital, gestión de datos y liderazgo de proyectos, combinando marketing, analítica de datos y tecnología para la toma de decisiones empresariales. Mi trayectoria abarca desde la optimización de embudos de conversión y campañas de Paid Media hasta la implementación de soluciones basadas en datos para mejorar procesos y aumentar el impacto del negocio.
+Specialized in data management, business-applied artificial intelligence, and digital analytics, with a strong focus on process optimization. Over 8 years of experience in project management, data-driven strategies, and digital transformation, leading initiatives that have improved operational efficiency by up to 50% and accelerated market impact.
 
-Actualmente, estoy profundizando en Data Science & AI a través del Máster en Data Science & AI de Nuclio Digital School, desarrollando modelos de Machine Learning y Deep Learning para la optimización de decisiones empresariales y estrategias digitales. Mi enfoque combina la creatividad del marketing con la precisión de la analítica de datos, permitiéndome diseñar estrategias escalables que transforman información en acción.
+- Developed innovative frameworks for managing CRM data structures and tailored reporting dashboards utilizing real-time metrics from digital marketing efforts, resulting not only in improved strategy alignment but also reducing manual workload by 50% and improving accuracy of insights delivered.
+- Designed strategic SEO and Paid Media (Google Ads, Meta Ads, LinkedIn Ads) initiatives leveraging advanced analytics tools increasing 60% qualified lead generation.
+- Spearheaded collaboration among multidisciplinary teams to enhance data visualization capabilities, leading to data-driven decisions that improved project outcomes and efficiency across departments.
 
-### 👩🏻‍💻 Áreas de especialización:
-- **Transformación digital & automatización**: Implementación de herramientas y optimización de procesos para mejorar la eficiencia operativa en empresas.
-- **Data-Driven Marketing**: Creación de estrategias basadas en datos para la segmentación de clientes, optimización de embudos de conversión y automatización de campañas.
-- **Business Intelligence & Visualización de datos**: Desarrollo de dashboards y reportes para la toma de decisiones estratégicas.
-- **Gestión de proyectos & liderazgo** de equipos multidisciplinarios.
+⚙️ Skills & Other:
+- **Programming & Frameworks**: Python (Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib), SQL.
+- **Machine Learning & AI**: Supervised and unsupervised learning, Deep Learning, MLOps.
+- **Data & BI Tools**: Google Cloud Console, Looker Studio, Power BI.
+- **CRM & Marketing**: SEO Optimization, Google Ads & Paid Social Campaigns, Email Marketing Strategies, Conversion Rate Optimization, Audience Segmentation, Web Analytics.
+- **Project Management Tools**: Microsoft Project, Airtable, Trello, Asana, Jira, Slack, Figma, Agile Methodology, Scrum.
 
-### ⚙️ Herramientas y tecnologías:
-- Lenguajes & Frameworks: Python (Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib), SQL.
-- BI & Visualización: Google Analytics, Looker Studio, Power BI.
-- CRM, Marketing & Automation: Clientify, Metricool, Meta Business Manager, Google Ads, LinkedIn Ads, Zapier.
-- Project Management: Agile (Scrum, Kanban), Airtable, Jira, Trello, Slack, Microsoft 365, Microsoft Project.
+---
+
+👩🏻‍💻 Currently, I am pursuing a Master’s in Data Science & AI at [Nuclio Digital School](https://nuclio.school/), strengthening my expertise in machine learning, deep learning, data analysis, and AI platforms applied to business.
+
+💡 My goal is to apply AI to projects that benefit the community, positioning myself as a leader in leveraging technology for social good.
+
+🤝 I am looking to connect with professionals interested in the intersection of business, data, and artificial intelligence, creating strategic solutions to drive real impact.
+
+📩 Let’s talk! Feel free to reach out at avaquerocastro@tutanota.com or send me a message on [LinkedIn](https://www.linkedin.com/in/avaquerocastro/)
